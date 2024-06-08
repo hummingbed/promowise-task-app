@@ -1,13 +1,11 @@
-## Getting Started
+### Getting Started
 
 First, install dependency
 
 ```
 npm install
 ```
-## Getting Started
-
-First, run the development server:
+### start app
 
 ```
 npm run dev
